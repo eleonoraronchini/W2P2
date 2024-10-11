@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgray;
+}
+* {
+  box-sizing: border-box;
+}
+.c1 {
+  background-color: #222f3f;
+  width: 100%;
+}
+
+.logo1 {
+  text-align: left;
+  width: 100px;
+  padding: 0.4rem;
+  
+}
+.p1 {
+  background-color: #364759;
+  word-spacing: 0.7rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.a1{
+    color: #3e6a74;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 0.8rem;
+}
+.pin {
+    text-align: center;
+    padding-top: 0rem;
+    padding-bottom: 1rem;
+    font-size: 0.9rem;
+}
+.p2 {
+  background-color: #f56600;
+  padding: 0.5rem;
+  margin: 1rem;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+}
+.header {
+  background-image: url(/Amazon\ Page/assets/images/bg-image.png);
+  padding: 6rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
+  text-align: center;
+  background-size:contain;
+}
+h1,
+h2 {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+h1 {
+  font-size: 20px;
+  padding-bottom: 1rem;
+}
+h2 {
+    font-size: 0.8rem;
+}
+.paragraph {
+    padding-bottom: 0;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    background-color: white;
+    margin: 1rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+}
+
+.imagesblock1{
+    display:flex;
+    justify-content: space-between;
+    padding: 1rem;
+    gap: 10px;
+    background-color: white;
+    margin: 1rem;
+    margin-top: 0;
+
+}
+.img_1, .img_2, .img_3,.img_4 {
+    width: 40%;
+    height: auto;
+    border-radius: 20px;
+}
+.img_5,.img_6 {
+    height: auto;
+    width: 100%;
+    padding: 1rem;
+    padding-bottom: 0;
+}
+
+#logo {
+    text-align: center;
+    width: 130px;
+    padding: 2rem;
+}
+.a3{
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+.endpage{
+    background-color: #364759;
+    width: 100%;
+    padding: 0.5rem;
+}
+footer{
+    text-align: center;
+}
+
+    
